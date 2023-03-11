@@ -4,6 +4,7 @@
 ```
 📦projet  
 │   📜câblage_serrure.PNG
+│   📜miniature_serrure_rfid.JPG
 │   📜serrure_rfid.ino
 └───📜README.md
 ```
