@@ -14,7 +14,7 @@
 ## Montage électronique
 Voici le câblage du projet:
 
-![](cablage_alarme.JPG#center)
+![](câblage_serrure.PNG#center)
 
 ## Structure du projet
 ```
