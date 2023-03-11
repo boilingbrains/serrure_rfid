@@ -1,5 +1,13 @@
 # __Serrure RFID__
 
+## Structure du projet
+```
+📦project
+│   📜serrure_rfid.ino 
+│   📜câblage_serrure.JPG        
+└───📜README.md
+```
+
 ## Matériel utilisé: 
 * Arduino UNO
 * Module RFID RC522
@@ -16,10 +24,3 @@ Voici le câblage du projet:
 
 ![](câblage_serrure.PNG#center)
 
-## Structure du projet
-```
-📦project
-│   📜serrure_rfid.ino 
-│   📜câblage_serrure.JPG        
-└───📜README.md
-```
