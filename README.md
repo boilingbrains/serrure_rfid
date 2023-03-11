@@ -2,7 +2,7 @@
 
 ## Structure du projet
 ```
-📦project
+📦projet
 │   📜serrure_rfid.ino 
 │   📜câblage_serrure.JPG        
 └───📜README.md
