@@ -30,6 +30,6 @@ Clique sur l'image pour accéder à la vidéo d'explication.
 
 <span style="display:block;text-align:center">
 
-[![](miniature_serrure_rfid.jpg#center)](https://youtu.be/TjQjy_GWWaY)
+[![](miniature_serrure_rfid.jpg#center)](https://youtu.be/k_Wx5GNPtIw)
 
 </span>
